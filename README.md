@@ -8,10 +8,12 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="400" height="400" />
 
-- 👋 Hi, I’m Zakariya Mehmud
+- :man_technologist: I am a budding Software Engineer. 
+- 🔭 I’m currently a Computer Science student at Metroplitan State Univeristy.  Go ahead & check out my repos! :octocat:
 - 👀 I’m interested in learning about anything technology related.
 - 🌱 I’m currently a Computer Science student at Metroplitan State Univeristy. 
 - 🔭 I’m looking to collaborate on small projects.
+- 💬 Ask me about anything tech related or reach out just to say hi! 
 - 📫 You can reach me at zakariya.mehmud@gmail.com
 - ⚡ Fun fact: I love to read just about anything! Oh and I am a huge Marvel fan!
 
