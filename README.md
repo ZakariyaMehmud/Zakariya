@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)]()
 
-### Happy to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Zmehmud) 
+### Happy to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=zakariyamehmud) 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="400" height="400" />
 
@@ -28,6 +28,6 @@
 </br>
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmehmud&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=faeec3&bg_color=151515" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmehmud&layout=compact&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=faeec3&bg_color=151515"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zakariyamehmud&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=faeec3&bg_color=151515" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariyamehmud&layout=compact&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=faeec3&bg_color=151515"/>
 </p>
